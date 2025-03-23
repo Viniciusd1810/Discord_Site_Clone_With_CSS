@@ -36,7 +36,7 @@ body{
 }
 
 header{
-    background-image: url("/assets/images/header-background.png");
+    background-image: url("assets/images/header-background.png");
     background-size: cover;
     background-position: center;
     padding-bottom: 20px;
@@ -116,12 +116,7 @@ footer{
 
 @media screen and (min-width: 768px) {
 
-    body{
-
-    }
-    
     header{
-        background-image: url("/assets/images/header-background.png");
         background-size:cover;
         background-repeat: no-repeat;
 
