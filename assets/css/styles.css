@@ -236,6 +236,7 @@ footer{
             inline-size: 600px;
             margin: 0;
             margin-top: 20px;
+            margin: auto;
         }
     }
 }
