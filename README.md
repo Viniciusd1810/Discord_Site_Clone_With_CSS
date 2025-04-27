@@ -1,5 +1,6 @@
 # Discord_Site_Clone_With_CSS
-First Project with responsitivity
+
+Built a responsive replica of Discord's homepage using HTML and CSS. Focused on recreating layouts with Flexbox and Grid, ensuring visual fidelity and responsiveness across different screen sizes.
 * Mobile First
 * Flex
 * Media Query
